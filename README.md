@@ -1,4 +1,4 @@
-# Bachelorthesis in Chemical and Biological Engineering
+# Bachelorthesis in Chemical and Biological Engineering at Friedrich-Alexander-Universität Erlangen-Nürnberg
 [Read the thesis](https://github.com/leonyannick/bubble_distribution/blob/main/bubble_distribution_bachelor_thesis.pdf)
 
 ## Overview of python files and their purpose
