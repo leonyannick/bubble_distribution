@@ -1,7 +1,7 @@
 # Bachelorthesis in Chemical and Biological Engineering
+[Read the thesis](https://github.com/leonyannick/bubble_distribution/blob/main/bubble_distribution_bachelor_thesis.pdf)
 
-## Overview of python files and their functions
-
+## Overview of python files and their purpose
 
 - closes_distance.py: calculates the closes distance between two points
 - colorvalue_test.py: click anywhere in an image to get the color information and location of that pixel
